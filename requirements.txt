@@ -1,0 +1,6 @@
+opencv-python==4.10.0.84
+pyautogui==0.9.54
+keyboard==0.13.5
+pyzmq==27.1.0
+numpy==2.1.1
+onnxruntime==1.19.2
